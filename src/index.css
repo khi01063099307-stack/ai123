@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* Import main style.css */
+@import "../style.css";

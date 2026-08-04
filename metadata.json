@@ -1,0 +1,6 @@
+{
+  "name": "AI 윤리 딜레마 체험 및 통계",
+  "description": "학생 및 일반인을 위한 인공지능 윤리 딜레마 체험 및 통계 분석 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
